@@ -1,0 +1,3 @@
+[submodule "linux-srv6-nc"]
+	path = linux-srv6-nc
+	url = https://github.com/slardinois/linux-srv6-nc
